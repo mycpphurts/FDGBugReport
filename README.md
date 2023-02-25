@@ -30,4 +30,4 @@ Title: [Bug] (Your title here)
 # Notice:
 - FDG is Still in beta, Errors may occur and all commands are subject to change, refer to `/changelog` to a list of changes (before I add one here)
 
-- If you're suggesting ideas, make sure they follow bot [Discord's Guidelines](https://discord.com/guidelines) and [Github's Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
+- If you're suggesting ideas, make sure they follow both [Discord's Guidelines](https://discord.com/guidelines) and [Github's Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)

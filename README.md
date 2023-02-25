@@ -2,7 +2,7 @@
 
 This repository's purpose is to report bugs found while using FDG Bot.
 
-**This can also be used to suggest stuff to be added!**
+**This can also be used to suggest stuff to be added! (Go creative, every idea is seen and reviewed)**
 
 ## Bot Version
 
@@ -28,4 +28,6 @@ Title: [Bug] (Your title here)
 (If possible add images and/or videos on how it happened.)
 
 # Notice:
-FDG is Still in beta, Errors may occur and all commands are subject to change, refer to `/changelog` to a list of changes (before I add one here)
+- FDG is Still in beta, Errors may occur and all commands are subject to change, refer to `/changelog` to a list of changes (before I add one here)
+
+- If you're suggesting ideas, make sure they follow bot [Discord's Guidelines](https://discord.com/guidelines) and [Github's Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
